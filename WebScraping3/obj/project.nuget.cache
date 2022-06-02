@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwaQWIQFNrWnKtxGU1BkMKpb4oSiRYQX8Crc4ohIAB9NjAJq3U7UaPA88f9eWyqhuxalwp4u0HAfiaLyNXac/w==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\WebScraping3\\WebScraping3\\WebScraping3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.support\\4.2.0\\selenium.support.4.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.6102\\selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512"
+  ],
+  "logs": []
+}
